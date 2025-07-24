@@ -42,7 +42,7 @@ const Pokemon = () => {
 
     if(loding){
         return <div>
-            <h1>Loding....</h1>
+            <h1>Loading....</h1>
         </div>
     }
 
