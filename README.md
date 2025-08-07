@@ -1,12 +1,39 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧢 Let's Catch Pokémon - React App
 
-Currently, two official plugins are available:
+A React.js app to search and explore Pokémon using [PokéAPI](https://pokeapi.co/). Just type the name of any Pokémon and get details like image, type, abilities, and stats.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](./Screenshot.png) <!-- Rename and place the image in your root folder -->
+<a href="https://pokemon-react-green-seven.vercel.app">Click Here</a>
+
+---
+
+## ✨ Features
+
+- 🔍 Search Pokémon by name
+- 📷 View image and types (e.g., Grass, Poison)
+- 📊 See stats like height, weight, speed, experience, and abilities
+- ⚡ Fast UI with responsive cards
+
+---
+
+## 🚀 Tech Stack
+
+- React.js (with Vite)
+- CSS
+- PokéAPI
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/pokemon-search-app.git
+cd pokemon-search-app
+npm install
+npm run dev
