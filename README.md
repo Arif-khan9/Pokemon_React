@@ -6,13 +6,13 @@ A React.js app to search and explore Pokémon using [PokéAPI](https://pokeapi.c
 
 ---
 
-## 🖼️ Screenshot
+## 
 
-<a href="https://pokemon-react-green-seven.vercel.app">Click Here</a>
+<a href="https://pokemon-react-green-seven.vercel.app" target="_blank">Click Here</a>
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Search Pokémon by name
 -  View image and types (e.g., Grass, Poison)
@@ -31,8 +31,4 @@ A React.js app to search and explore Pokémon using [PokéAPI](https://pokeapi.c
 
 ##  Installation
 
-```bash
-git clone https://github.com/your-username/pokemon-search-app.git
-cd pokemon-search-app
-npm install
-npm run dev
+
