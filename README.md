@@ -8,8 +8,7 @@ A React.js app to search and explore Pokémon using [PokéAPI](https://pokeapi.c
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./Screenshot.png) <!-- Rename and place the image in your root folder -->
-<a href="https://pokemon-react-green-seven.vercel.app" ><p>Click Here</p>/a>
+<a href="https://pokemon-react-green-seven.vercel.app">Click Here</a>
 
 ---
 
